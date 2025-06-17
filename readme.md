@@ -4,3 +4,9 @@ like this
 ```js
 const bundle = await import("https://kicnft.github.io/symbol-sdk/bundle.web.js");
 ```
+
+also 
+
+```
+const bundle = await import("https://cdn.jsdelivr.net/npm/symbol-sdk@3.2.3/dist/bundle.web.js");
+```
